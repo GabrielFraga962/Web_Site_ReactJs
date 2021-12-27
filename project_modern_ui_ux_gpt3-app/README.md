@@ -1,11 +1,14 @@
-# Modern UI/UX GPT-3
-### [Live Site](https://gpt3-jsm.com/)
-
-![Modern UI/UX GPT-3](https://i.ibb.co/TR5LW9z/image.png)
+# Modern UI/UX GPT-3 🔶
 
 ---
 
-## Introdução
+### [Live Site](https://gpt3-jsm.com/)
+
+<p align="center"> <img src=https://i.imgur.com/p2vpv4f.png alt="GPT-3"> </p>
+
+---
+
+## Introdução 📜
 
 Você deve estar se perguntando: quais são os pré-requisitos para construir um site tão incrível? Vamos começar com facilidade e eles passarão para tópicos mais complexos. Cada etapa do caminho será explicada. Além de construir o site, você aprenderá:
 
@@ -15,3 +18,15 @@ Você deve estar se perguntando: quais são os pré-requisitos para construir um
 - Fundamentos do modelo CSS BEM
 - De animações suaves e agradáveis a gradientes complexos
 - Consultas de mídia perfeitamente posicionadas para resposta satisfatória cobrindo quase todos os dispositivos
+
+---
+
+# Execultando o projeto 🛠
+
+Utilize o <b>yarn</b> ou o <b>npm install</b> para instalar as dependências do projeto. Em seguida, inicie o projeto.
+
+---
+
+# Licença 📑
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://opensource.org/licenses/MIT) para mais detalhes.
