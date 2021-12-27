@@ -4,6 +4,8 @@
 
 ### [Live Site](https://gpt3-app.netlify.app/)
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/a3f656f1-65c7-4911-bd9f-62bd3a3971e0/deploy-status)](https://app.netlify.com/sites/gpt3-app/deploys)
+
 <p align="center"> <img src=https://i.imgur.com/p2vpv4f.png alt="GPT-3"> </p>
 
 ---
