@@ -2,7 +2,7 @@
 
 ---
 
-### [Live Site](https://gpt3-jsm.com/)
+### [Live Site](https://gpt3-app.netlify.app/)
 
 <p align="center"> <img src=https://i.imgur.com/p2vpv4f.png alt="GPT-3"> </p>
 
